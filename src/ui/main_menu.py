@@ -1,0 +1,1 @@
+# File is empty, as the main menu is implemented in Rust in the game_ui.rs file. 
